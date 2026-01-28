@@ -4,4 +4,4 @@ This is an assignment for my cohort.
 
 ## Assignment Output
 
-![Assignment Output](output.png)
+![Assignment Output](output.png.png)
