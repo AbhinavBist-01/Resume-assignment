@@ -1,4 +1,7 @@
 # Resume-assignment
 
-This is a assignment for my cohort
+This is an assignment for my cohort.
+
+## Assignment Output
+
 ![Assignment Output](output.png)
